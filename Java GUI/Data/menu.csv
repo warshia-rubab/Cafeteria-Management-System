@@ -1,0 +1,6 @@
+ID,Name,Price,Category,Stock,Sold
+1,Burger,5.99,Main Course,49,1
+2,Pizza,8.99,Main Course,29,1
+3,Coffee,2.50,Beverage,100,0
+4,Fries,3.50,Side,80,0
+5,Salad,4.99,Main Course,40,0

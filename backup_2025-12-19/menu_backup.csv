@@ -1,0 +1,11 @@
+ID,Name,Price,Stock,Category
+1,Burger,200,50,Fast Food
+2,Pizza,500,29,Fast Food
+3,Fries,150,100,Side
+4,Sandwich,180,40,Fast Food
+5,Pasta,350,25,Main Course
+6,Nuggets,250,59,Fast Food
+7,Shawarma,300,35,Fast Food
+8,Cold Drink,100,120,Beverage
+9,Coffee,120,80,Beverage
+10,Ice Cream,160,45,Dessert

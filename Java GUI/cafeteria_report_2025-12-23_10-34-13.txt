@@ -1,0 +1,23 @@
+============================================================
+CAFETERIA MANAGEMENT SYSTEM - REPORT
+Generated: Tue Dec 23 10:34:13 PKT 2025
+============================================================
+
+1. MENU SUMMARY
+----------------------------------------
+Total Items: 10
+Total Stock: 558
+
+2. SALES SUMMARY
+----------------------------------------
+Total Orders: 2
+Total Revenue: Rs.5340.00
+Average Order: Rs.2670.00
+
+3. CURRENT CART STATUS
+----------------------------------------
+Cart Items: 0
+Cart Total: Rs.0.00
+
+============================================================
+End of Report
